@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Smit Vaghasiya
 
-<!--
-**smit-vaghasiya-sec/smit-vaghasiya-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Red Team Enthusiast | Ethical Hacking | BCA Student  
+Focused on penetration testing, offensive security & real-world attack simulations.
 
-Here are some ideas to get you started:
+🔎 Skills:
+- Kali Linux | Nmap | Metasploit | Burp Suite  
+- Vulnerability Assessment & Exploitation  
+- Web Security | OWASP Top 10  
+- Python for Security Automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Advanced Penetration Testing  
+- Red Team Techniques  
+- Exploit Development  
+
+📫 Connect:
+LinkedIn: https://linkedin.com/in/smit-vaghasiya-8553a3262  
+GitHub: https://github.com/smit-vaghasiya-sec
+
